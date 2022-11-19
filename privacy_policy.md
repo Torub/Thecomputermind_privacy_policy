@@ -1,4 +1,4 @@
-Privacy Policy for The Computer Mind
+Privacy Policy for HACKaTUBE
 
 Privacy Policy
 Last updated: November 12, 2022
@@ -18,9 +18,9 @@ Account means a unique account created for You to access our Service or parts of
 
 Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-Application means the software program provided by the Company downloaded by You on any electronic device, named The Computer Mind
+Application means the software program provided by the Company downloaded by You on any electronic device, named HACKaTUBE
 
-Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to The Computer Mind.
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to HACKaTUBE.
 
 Country refers to: West Bengal, India
 
